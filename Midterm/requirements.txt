@@ -1,0 +1,9 @@
+aws-cdk.core
+aws-cdk.aws-s3
+aws-cdk.aws-dynamodb
+aws-cdk.aws-lambda
+aws-cdk.aws-s3-notifications
+aws-cdk.aws-events
+aws-cdk.aws-events-targets
+aws-cdk-lib
+constructs
